@@ -1,0 +1,72 @@
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.exe
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.deps.json
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.runtimeconfig.json
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.pdb
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Firebase.Auth.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Firebase.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\LiteDB.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.AssemblyReference.cache
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.LoginForm.resources
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.MainForm.resources
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.Properties.Resources.resources
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.GenerateResource.cache
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.AssemblyInfoInputs.cache
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.AssemblyInfo.cs
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.CoreCompileInputs.cache
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with .CF05DD8F.Up2Date
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\refint\C# with firebase.dll
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.pdb
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.genruntimeconfig.cache
+C:\Users\Fzkn4\source\repos\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\ref\C# with firebase.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\firebaseConfig.json
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.exe
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.deps.json
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.runtimeconfig.json
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\C# with firebase.pdb
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Firebase.Auth.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Firebase.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Guna.Charts.WinForms.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\LiteDB.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.AssemblyReference.cache
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.LoginForm.resources
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.MainForm.resources
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C__with_firebase.Properties.Resources.resources
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.GenerateResource.cache
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.AssemblyInfoInputs.cache
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.AssemblyInfo.cs
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.csproj.CoreCompileInputs.cache
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with .CF05DD8F.Up2Date
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\refint\C# with firebase.dll
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.pdb
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\C# with firebase.genruntimeconfig.cache
+C:\Users\Fzkn4\Downloads\C# with firebase\C# with firebase\obj\Debug\net8.0-windows\ref\C# with firebase.dll
